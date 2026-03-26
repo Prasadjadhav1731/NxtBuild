@@ -24,7 +24,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-left">
         <Link to="/dashboard" className="navbar-brand">
-          <span className="navbar-brand-mark">&lt;/&gt;</span> WebCraft
+          <span className="navbar-brand-mark">&lt;/&gt;</span> NxtBuild
         </Link>
         <div className="navbar-links">
           <Link to="/dashboard" className={`navbar-link ${isActive('/dashboard') ? 'active' : ''}`}>

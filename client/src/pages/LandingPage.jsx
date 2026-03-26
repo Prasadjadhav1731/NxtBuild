@@ -29,7 +29,7 @@ function LandingPage() {
             <span className="landing-hero-accent">Working Web Apps</span>
           </h1>
           <p className="landing-hero-subtitle">
-            Describe what you want to build in plain English. NxtBuild generates
+            Describe what you want to build in plain English. WebCraft generates
             clean, production-ready code instantly.
           </p>
 
